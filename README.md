@@ -102,3 +102,4 @@ npm run start
 ## License
 
 This project is a concept study created for technical demonstration and portfolio purposes. Automotive marques and trademarks belong to their respective owners.
+

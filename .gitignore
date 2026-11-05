@@ -7,6 +7,7 @@
 # Next.js build output
 /.next/
 /out/
+*.tsbuildinfo
 
 # Production
 /build
@@ -38,3 +39,9 @@ Thumbs.db
 
 # Large temporary archives
 *.zip
+
+# Subprojects and source assets
+bolide-hypercar/
+/public/frame_*.jpg
+/original-videos/
+
